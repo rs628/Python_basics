@@ -3,7 +3,7 @@ This project is revising Python again from basics to brush up the  skills
 We'll  cover the following topics in this project
 
 Week 1: Basics of Python Programming
-Session 1: Python BasicsShort info about DSMP (3:38 - 6:57)
+Session 1: Python BasicsShort 
 About Python 
 Python Output/print function 
 Python Data Types 
